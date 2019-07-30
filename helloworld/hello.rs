@@ -1,4 +1,4 @@
 fn main(){
-	let name = "Siddharth";
+	let name:String = String::from("Siddharth Singh");
 	println!("Hello {}, How are you?", name);
 }
